@@ -7,3 +7,5 @@ Results can be summarized as follows:
 - In around 60% of the world's countries, people have complete access to electricity.
 - Asia, Oceania, North and South America have very high levels of access to electricity, however there are some outliers that have considerably less.
 - Africa has the least median access to electricity, however there are no outliers as the range is very high (from around 20% to around 60%).
+
+LinkedIn: https://www.linkedin.com/in/gabriele-omaggio-8b482169/
